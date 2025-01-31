@@ -37,6 +37,7 @@
     border-radius: 4px;
     background: linear-gradient(0deg, #FF4D00 0%, #FEB05D 100%);
     padding: 0 15px;
+    border: none;
 
     color: #FFF;
     text-align: center;
